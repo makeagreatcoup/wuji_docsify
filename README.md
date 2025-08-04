@@ -88,7 +88,7 @@ docsify serve docs
 如有任何问题或建议，请通过以下方式联系我们：
 
 - 在 GitHub 上[提交 Issue](https://github.com/makeagreatcoup/wuji_docsify/issues)
-- 发送邮件至：[your-email@example.com](mailto:your-email@example.com)
+<!-- - 发送邮件至：[your-email@example.com](mailto:your-email@example.com) -->
 
 ---
 
